@@ -1,9 +1,7 @@
-# super-java_LoopsForFun
+<Loops for fun>
 
-Thsese are exercises that using loops and creating shapes!
-Please feel free to get the codes.
-
-<Christmas Tree>
+These are exercises that using loops and creating shapes! Please feel free to get the codes.
+-Christmas Tree-
   
          *
         ***
